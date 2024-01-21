@@ -1,0 +1,11 @@
+# ninja log v5
+0	51	7275194091739046	CMakeFiles/Deep_C.dir/File_Handling/1-fscanf.c.obj	5c2b65a4eb0e11be
+47	104	7275473176279764	Deep_C.exe	dd652946423efd3d
+1	44	7275450383941554	CMakeFiles/Deep_C.dir/File_Handling/2-file_copying.c.obj	3e29b51065708b28
+1	47	7275473175729268	CMakeFiles/Deep_C.dir/File_Handling/3-structured_file.c.obj	432515f035a70b8e
+0	152	7275484587516617	CMakeFiles/Deep_C.dir/File_Handling/4-manipulating-file-pointer.c.obj	11b4d7778f7f47c8
+152	216	7275484588137189	Deep_C.exe	5cc74e5555d20280
+1	44	7275484861079512	CMakeFiles/Deep_C.dir/File_Handling/4-manipulating-file-pointer.c.obj	11b4d7778f7f47c8
+44	100	7275484861630010	Deep_C.exe	5cc74e5555d20280
+1	43	7275486186771896	CMakeFiles/Deep_C.dir/File_Handling/4-manipulating-file-pointer.c.obj	11b4d7778f7f47c8
+149	206	7275486188384791	Deep_C.exe	5cc74e5555d20280
